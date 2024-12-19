@@ -13,6 +13,8 @@ Que encontrarás?
 Revisa mi canal de youtube
 Suscríbete a mi canal de YouTube donde subo cursos completos para ayudarte a convertirte en un Full Stack !
 
+Link a mi canal de YouTube: https://www.youtube.com/@josse1848
+
 Apoyame
 Tu apoyo para seguir generando código simple y útil es elemental para seguir subiendo material útil.
 link a al repositorio: https://github.com/josemenargib/EjerciciosJava
