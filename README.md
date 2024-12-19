@@ -1,18 +1,18 @@
-## Getting Started
+CODIGO BASE JAVA PARA PRACTICAR !
+Realizé un par de juegos (Ahorcado,piedra - papel - tijera) y una demostracipon del uso del Switch
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Como usarlo ?
+1.- Clona mi repositorio .
+2.- Cada aplicacion inicia con un título, comento el resto de las aplicaciones para ejecutar uno por uno.
 
-## Folder Structure
+Que encontrarás?
+1.- ciclos FOR, WHILE, SWITCH .
+2.- Uso de método Scanner.
+3.- Dos formas de codificar el juego de piedra-papel-tijera
 
-The workspace contains two folders by default, where:
+Revisa mi canal de youtube
+Suscríbete a mi canal de YouTube donde subo cursos completos para ayudarte a convertirte en un Full Stack !
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Apoyame
+Tu apoyo para seguir generando código simple y útil es elemental para seguir subiendo material útil.
+link a al repositorio: https://github.com/josemenargib/EjerciciosJava
